@@ -23,5 +23,10 @@ git clone https://gitlab.ewi.tudelft.nl/cse1105/2021-2022/team-repositories/oopp
 ### Launching
  - Just run ```output/main.exe```
 
+## Recommendations
+ - 1920x1080 screen resolution
+ - The program will run for ~10 seconds and close
+ - Settings can be changed from ```include/rgb.h```
+
 ## Gallery
 ![Partiles](particles.png?raw=true)
