@@ -11,7 +11,7 @@
 
 #define KEEP_SCREEN FALSE                                                                           /// If false the screen will be wiped every frame
 #define MULTI_FRAME TRUE                                                                            /// If false the loop will only execute once
-#define MAX_ITERATIONS 150                                                                          /// Change this for the program to run for longer
+#define MAX_ITERATIONS 500                                                                          /// Change this for the program to run for longer
 
 extern COLORREF *arr;
 extern HBITMAP screen;

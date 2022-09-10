@@ -21,11 +21,11 @@ git clone https://github.com/vload/particle.git
 ### Compilation
  - Open a terminal in this folder and type ```mingw32-make```
 ### Launching
- - Just run ```output/main.exe```
+ - Just run ```./output/main.exe```
 
 ## Recommendations
  - 1920x1080 screen resolution
- - The program will run for ~10 seconds and close
+ - The program will run for ~10 seconds (depending on processing power) and close
  - Settings can be changed from ```include/rgb.h```
 
 ## Gallery
