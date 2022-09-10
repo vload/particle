@@ -1,4 +1,4 @@
-# particles
+# particle
 ## Description of project
 This program simulates 300000 particles moving around 3 centers of gravity. Their speed is indicated by their color. 
 
