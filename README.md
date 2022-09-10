@@ -7,7 +7,7 @@ This program simulates 300000 particles moving around 3 centers of gravity. Thei
 To run or contribute to this project, you must first clone this repository
 
 ```
-git clone https://gitlab.ewi.tudelft.nl/cse1105/2021-2022/team-repositories/oopp-group-63/repository-template.git - TO BE CHANGED
+git clone https://github.com/vload/particle.git
 ```
 
 ### Installation
