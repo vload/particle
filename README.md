@@ -29,4 +29,4 @@ git clone https://github.com/vload/particle.git
  - Settings can be changed from ```include/rgb.h```
 
 ## Gallery
-![Partiles](particles.png?raw=true)
+![Particle](particles.png?raw=true)
